@@ -8,22 +8,11 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2 grid grid-cols-4 gap-4">
-        <li>Node.js</li>
-        <li>Next.js</li>
-        <li>PostgreSQL</li>
-        <li>Unity</li>
-        <li>JavaScript</li>
-        <li>React</li>
-        <li>Godot</li>
-        <li>C#</li>
-        <li>Python</li>
+        <li>Cooking to some extent</li>
+        <li>Learning</li>
+        <li>Hearing</li>
         <li>C++</li>
-        <li>OpenCV</li>
         <li>Git</li>
-        <li>Google Cloud Platform</li>
-        <li>LLM</li>
-        <li>Deep Learning</li>
-        <li>VR/AR</li>
       </ul>
       
     ),
@@ -33,8 +22,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Master&apos;s Computer Science - University of Texas Rio Grande Valley</li>
-        <li>Bachelor&apos;s Computer Science - University of Texas Rio Grande Valley</li>
+        <li>Associates&apos;s Interdiciplinary Studies - South Texas College</li>
+      
       </ul>
     ),
   },
@@ -66,13 +55,11 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a Game Developer with interest of many topics, from Machine Learning, to Theory.
-            Different skills I have acquired over the years to consider myself a Jack of All Trades, and
-            master to game development since its quite fun.
+          Hi there! I’m passionate about computer science and fascinated by the endless possibilities it offers. I love diving into coding, solving complex problems, and learning new technologies. My ultimate goal is to develop games that bring joy and creativity to others. I believe games have the power to tell stories, connect people, and inspire.
 
-            My enthusiasm for technology drives me to continue to learn something new, and I have enjoyed
-            learning different topics and also teaching others to pursue certain topics if it finds their
-            intereset. 
+As I continue to build my skills, I’m eager to gain practical experience in game development and eventually land a fulfilling job in the industry. I’m excited about collaborating with others, pushing creative boundaries, and contributing to projects that make a difference.
+
+I’m always looking to connect with fellow enthusiasts and professionals in the field, so feel free to reach out!
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
