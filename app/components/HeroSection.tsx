@@ -40,18 +40,18 @@ const HeroSection = () => {
           </p>
           <div>
           <Link
-              href="/resumes/Game_Dev_Resume.pdf"
-              download="Game_Dev_Resume.pdf"
+              href="/resumes/Reynaldo_F_Resume.pdf"
+              download="Reynaldo_F_Resume.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 boder border-white mt-3 text-white"
             >
-              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">Software Dev</span>
+              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">Resume</span>
             </Link>
             <Link
-              href="/resumes/Game_Dev_Resume.pdf"
-              download="Game_Dev_Resume.pdf"
+              href="/resumes/Reynaldo_Flores_Resume.pdf"
+              download="Reynaldo_F_Resume.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 boder border-white mt-3 translate-x-[10px] text-white"
             >
-              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">Game Dev</span>
+              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">Resume2</span>
             </Link>
           </div>
         </motion.div>

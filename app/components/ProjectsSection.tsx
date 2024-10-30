@@ -11,12 +11,12 @@ const projectsData = [
     description: "Created the website you're currently at",
     image: "/images/Projects/Website.jpg",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/ButterM-40/personal-website",
+    gitUrl: "https://github.com/Rey-Flo/personal-website-RF",
     previewUrl: "/",
   },
   {
     id: 2,
-    title: "Communicative NPC Game",
+    title: "Nothing",
     description: "Using LLM we were able to create an interative Boss that can communicate with the Player via voice",
     image: "/images/Projects/DungeonGPT.jpg",
     tag: ["All", "Game"],
@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Project-M347",
+    title: "Not yet",
     description: "Horror POV where you play as a scientist trying to escpae the unknown cave.",
     image: "/images/Projects/Project-M347.png",
     tag: ["All", "Game"],
@@ -34,7 +34,7 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "Python Langchain",
+    title: "Coming soon",
     description: "Using OpenAI, constructed a NPC with Story",
     image: "/images/about-image.png",
     tag: ["All", "Web"],
@@ -43,7 +43,7 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Spirit of the Wild",
+    title: "Etc.",
     description: "Puzzle Game where the player transform into a totem to use as platforms",
     image: "/images/Projects/SpiritOfTheWild.png",
     tag: ["All", "Game"],
